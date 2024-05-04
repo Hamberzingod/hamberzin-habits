@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits e um app para ajudar no controle da sua rotina.
 
-- [Visite o projeto online] <a href="https://habitss.vercel.app" target="_blank">Clique aqui!<a/>
+- <p>Visite o projeto online -> <a href="https://habitss.vercel.app" target="_blank">Clique aqui!<a/></p>
 
 ## 🔖 Layout
 
